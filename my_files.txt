@@ -1,0 +1,5 @@
+./my_cycleGan.ipynb
+./train_new.py
+./models/nir2vis_model.py
+./data/paired_nir_dataset.py
+./data/unpaired_nir_dataset.py
